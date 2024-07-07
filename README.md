@@ -15,7 +15,9 @@ STEPS
 5-) You can start the project and perform the operations you want.
 
 
-**-- phpMyAdmin SQL Dump
+** YOU MUST ENTER ALL INFORMATION ABOUT THE PROJECT IN THE satisvestok SQL SECTION FROM LOCALHOST.
+
+-- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
